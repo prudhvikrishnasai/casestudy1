@@ -27,8 +27,8 @@ where menu_id=2;
 /* 4. Add to Cart (TYUC004) */
 insert into user
 values
-(1, 'Rishabh Sharma'),
-(2, 'Aman Jalan');
+(1, 'Vanshika Wadhwa'),
+(2, 'Akshie Dhiman');
 
 insert into cart
 values (1,1),
