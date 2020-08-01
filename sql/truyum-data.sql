@@ -14,7 +14,7 @@ select * from menu_items;
 select * from menu_items
 where menu_Active="Yes" AND menu_date<= trunc(current_date);
 
-/* 3. Edit Menu Item (TYUC003) */
+/* 3. Edit Menu Item (TYUC003) changing the comments*/
 select * from menu_items 
 where menu_id = "1";
 
